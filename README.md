@@ -46,10 +46,4 @@ Apesar de a abordagem ter sido metodologicamente sólida, os resultados não sup
 - `SalesForecast/` - notebooks de análise e previsão de vendas.
 - `Stuff/` - scripts e notebooks auxiliares para exportação, limpeza e exploração.
 
-## Nota sobre os dados
 
-Os caminhos absolutos do ambiente original foram substituídos por referências relativas ao repositório. Os dados brutos e ficheiros pesados não fazem parte do histórico público.
-
-## Autoria
-
-Projeto de grupo. Se quiseres, podes acrescentar aqui os nomes da equipa e o ano letivo.
